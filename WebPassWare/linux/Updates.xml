@@ -2,8 +2,6 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>a6c492e6caf7097a721ff32c9c37453c9effae55</SHA1>
- <MetadataName>2021-11-19-2033_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>io.qt</Name>
   <DisplayName>Qt</DisplayName>
@@ -12,10 +10,12 @@
   <ReleaseDate>2021-11-19</ReleaseDate>
   <Virtual>false</Virtual>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="32112329" UncompressedSize="124204232" OS="Any"/>
+  <UpdateFile OS="Any" CompressedSize="32112322" UncompressedSize="124204232"/>
   <DownloadableArchives>lib.7z</DownloadableArchives>
-  <SHA1>783e4ace50ef0cafe3724e8d0b2b031eb5f662f4</SHA1>
+  <SHA1>b70e5ad8f8cb00816695353c78d6f6b53ea5428c</SHA1>
  </PackageUpdate>
+ <SHA1>2cae8d88aabee786cb28e5cb4090c8af3ba903bc</SHA1>
+ <MetadataName>2021-11-19-2102_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>pl.com.awsoftware.webpassware</Name>
   <DisplayName>WebPassWare</DisplayName>
@@ -26,9 +26,9 @@
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="389816" UncompressedSize="1449760" OS="Any"/>
+  <UpdateFile OS="Any" CompressedSize="389816" UncompressedSize="1449760"/>
   <DownloadableArchives>bin.7z</DownloadableArchives>
   <UserInterfaces>create_links.ui</UserInterfaces>
-  <SHA1>369a91d1fcfae112bf47392ca29e71b731460cbb</SHA1>
+  <SHA1>709db4e05a309a036e26fed6bb0e7b6119c7490f</SHA1>
  </PackageUpdate>
 </Updates>
