@@ -10,25 +10,25 @@
   <ReleaseDate>2021-11-19</ReleaseDate>
   <Virtual>false</Virtual>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile OS="Any" CompressedSize="32112322" UncompressedSize="124204232"/>
+  <UpdateFile CompressedSize="32112322" OS="Any" UncompressedSize="124204232"/>
   <DownloadableArchives>lib.7z</DownloadableArchives>
-  <SHA1>b70e5ad8f8cb00816695353c78d6f6b53ea5428c</SHA1>
+  <SHA1>cef384e5f61e99ce50dd1cacd9ca1bf27a195eeb</SHA1>
  </PackageUpdate>
- <SHA1>2cae8d88aabee786cb28e5cb4090c8af3ba903bc</SHA1>
- <MetadataName>2021-11-19-2102_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>pl.com.awsoftware.webpassware</Name>
   <DisplayName>WebPassWare</DisplayName>
   <Description>WebPassWare do przechowywania hase� do serwis�w www / poczty itp.</Description>
-  <Version>0.0.2</Version>
+  <Version>0.0.3</Version>
   <ReleaseDate>2021-11-19</ReleaseDate>
   <Dependencies>io.qt</Dependencies>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" CompressedSize="389816" UncompressedSize="1449760"/>
+  <UpdateFile CompressedSize="389809" OS="Any" UncompressedSize="1449760"/>
   <DownloadableArchives>bin.7z</DownloadableArchives>
   <UserInterfaces>create_links.ui</UserInterfaces>
-  <SHA1>709db4e05a309a036e26fed6bb0e7b6119c7490f</SHA1>
+  <SHA1>425e80185453979646b4b670ca60093eb8d09074</SHA1>
  </PackageUpdate>
+ <SHA1>1f32c650a0a1ef3e0b11ebfeb74830c0a35a86ce</SHA1>
+ <MetadataName>2021-11-19-2109_meta.7z</MetadataName>
 </Updates>
