@@ -10,9 +10,9 @@
   <ReleaseDate>2021-11-20</ReleaseDate>
   <Virtual>false</Virtual>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile OS="Any" CompressedSize="78025894" UncompressedSize="276139786"/>
+  <UpdateFile CompressedSize="78025894" OS="Any" UncompressedSize="276139786"/>
   <DownloadableArchives>lib.7z</DownloadableArchives>
-  <SHA1>38463786633368025985600fe2df8d3b9d7f9efc</SHA1>
+  <SHA1>1d764df18861063cf9878d0b69f1696dd0834364</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>pl.com.awsoftware.multifirma</Name>
@@ -24,11 +24,11 @@
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" CompressedSize="47449278" UncompressedSize="101047064"/>
+  <UpdateFile CompressedSize="47448295" OS="Any" UncompressedSize="101047112"/>
   <DownloadableArchives>backups.7z,bin.7z,conf.7z,data.7z,import.7z,jpk.7z,lib.7z,raporty.7z,content.7z</DownloadableArchives>
   <UserInterfaces>create_links.ui</UserInterfaces>
-  <SHA1>4735fdc31648dfb7350ec345d8688d1bdeedebf1</SHA1>
+  <SHA1>29745134a9df0d506fd41c0463bb10ec1ffff885</SHA1>
  </PackageUpdate>
- <SHA1>ea21f3ade0aabca949545cd172038a5b1a5421d6</SHA1>
- <MetadataName>2021-11-20-1002_meta.7z</MetadataName>
+ <SHA1>69e79290369f34d02c3bcda960220937adc26bc8</SHA1>
+ <MetadataName>2021-11-20-1502_meta.7z</MetadataName>
 </Updates>
