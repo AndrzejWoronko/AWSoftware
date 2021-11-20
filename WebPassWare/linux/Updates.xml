@@ -7,28 +7,28 @@
   <DisplayName>Qt</DisplayName>
   <Description>Qt framework</Description>
   <Version>5.15.2</Version>
-  <ReleaseDate>2021-11-19</ReleaseDate>
+  <ReleaseDate>2021-11-20</ReleaseDate>
   <Virtual>false</Virtual>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="32112322" OS="Any" UncompressedSize="124204232"/>
+  <UpdateFile OS="Any" CompressedSize="32112322" UncompressedSize="124204232"/>
   <DownloadableArchives>lib.7z</DownloadableArchives>
-  <SHA1>cef384e5f61e99ce50dd1cacd9ca1bf27a195eeb</SHA1>
+  <SHA1>f3a43689dc85cd2d83bb858dfd328f8288e25aac</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>pl.com.awsoftware.webpassware</Name>
   <DisplayName>WebPassWare</DisplayName>
   <Description>WebPassWare do przechowywania hase� do serwis�w www / poczty itp.</Description>
-  <Version>0.0.3</Version>
-  <ReleaseDate>2021-11-19</ReleaseDate>
+  <Version>0.0.1</Version>
+  <ReleaseDate>2021-11-20</ReleaseDate>
   <Dependencies>io.qt</Dependencies>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="389809" OS="Any" UncompressedSize="1449760"/>
-  <DownloadableArchives>bin.7z</DownloadableArchives>
+  <UpdateFile OS="Any" CompressedSize="392411" UncompressedSize="1455908"/>
+  <DownloadableArchives>bin.7z,content.7z</DownloadableArchives>
   <UserInterfaces>create_links.ui</UserInterfaces>
-  <SHA1>425e80185453979646b4b670ca60093eb8d09074</SHA1>
+  <SHA1>365dd097096da3a36f3d4eb46fecd0ce3d55667b</SHA1>
  </PackageUpdate>
- <SHA1>1f32c650a0a1ef3e0b11ebfeb74830c0a35a86ce</SHA1>
- <MetadataName>2021-11-19-2109_meta.7z</MetadataName>
+ <SHA1>7a4b544444ed2f233308cd18e4a02e5ab6ec34b3</SHA1>
+ <MetadataName>2021-11-20-0833_meta.7z</MetadataName>
 </Updates>
