@@ -10,9 +10,9 @@
   <ReleaseDate>2021-11-20</ReleaseDate>
   <Virtual>false</Virtual>
   <ForcedInstallation>true</ForcedInstallation>
-  <UpdateFile CompressedSize="32112321" UncompressedSize="124204232" OS="Any"/>
+  <UpdateFile UncompressedSize="124204232" CompressedSize="32112321" OS="Any"/>
   <DownloadableArchives>lib.7z</DownloadableArchives>
-  <SHA1>8f0b15933a1d7b049d0f59d536b688a114b17fdf</SHA1>
+  <SHA1>0a3f0263b7c82c232fd22cca15c17b86e92dfef9</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>pl.com.awsoftware.webpassware</Name>
@@ -24,11 +24,11 @@
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="401627" UncompressedSize="1475684" OS="Any"/>
+  <UpdateFile UncompressedSize="1479948" CompressedSize="400575" OS="Any"/>
   <DownloadableArchives>bin.7z,content.7z</DownloadableArchives>
   <UserInterfaces>create_links.ui</UserInterfaces>
-  <SHA1>f6aa833e5d2401ccd2c712f72828e731576d3b62</SHA1>
+  <SHA1>333d4f80865513dda4f4af44f7d547d0600bbaec</SHA1>
  </PackageUpdate>
- <SHA1>8d1e91d87bcb6d0e83011c8e985a36ea0785a17a</SHA1>
- <MetadataName>2021-11-20-1343_meta.7z</MetadataName>
+ <SHA1>e00c8bddae9f935522e043248eceaacea45a7e76</SHA1>
+ <MetadataName>2021-11-20-1458_meta.7z</MetadataName>
 </Updates>
