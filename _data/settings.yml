@@ -5,9 +5,16 @@ title: AWSoftware
 logo: 
 author: Andrzej Woronko
 description: AWSoftware Andrzej Woronko
+
+email-label: 'E-mail:'
 email: andrzej.woronko@gmail.com
+
+phone-label: 'Telefon:'
 phone: +48 697 71 07 22
+
+address-label: 'Adres:'
 address: 15-528 Sowlany, ul. Sosenkowa 3
+
 copyright: Copyright &copy; 2021 AWSoftware
 
 menu:
