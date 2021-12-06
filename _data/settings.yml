@@ -11,10 +11,10 @@ address: 15-528 Sowlany, ul. Sosenkowa 3
 copyright: Copyright &copy; 2021 AWSoftware
 
 menu:
-- {name: O firmie, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Kontakt, link: '/contact'}
+- {name: O firmie, link: 'AWSoftware/about'}
+- {name: Blog, link: 'AWSoftware/blog'}
+- {name: Portfolio, link: 'AWSoftware/portfolio'}
+- {name: Kontakt, link: 'AWSoftware/contact'}
 
 
 #-------------------------------
