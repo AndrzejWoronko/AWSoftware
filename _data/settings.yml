@@ -18,10 +18,10 @@ address: 15-528 Sowlany, ul. Sosenkowa 3
 copyright: Copyright &copy; 2021 AWSoftware
 
 menu:
-- {name: O firmie, link: 'about'}
-- {name: Blog, link: 'blog'}
-- {name: Portfolio, link: 'portfolio'}
-- {name: Kontakt, link: 'contact'}
+- {name: "O firmie", link: 'about'}
+- {name: "Blog", link: 'blog'}
+- {name: "Portfolio", link: 'portfolio'}
+- {name: "Kontakt", link: 'contact'}
 
 
 #-------------------------------
@@ -69,34 +69,24 @@ blurb-btn-name: Więcej
 
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
+  - title : "Badanie specyfikacji oprogramowania i planowanie"
     icon : "assets/images/icons/plan.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
-  - title : "Design and Develop"
+  - title : "Projektowaie i implementacja"
     icon : "assets/images/icons/design.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
-  - title : "Deliver"
+  - title : "Wdrożenie"
     icon : "assets/images/icons/print.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
-    
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
-
-
+  - title : "Andrzej Woronko"
+    image : "assets/images/andrzej_woronko.jpg"
+    designation : "Project Manager, Software Developer, Company Owner"
 #-------------------------------
 # Skills Section
 
@@ -112,45 +102,49 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Doświadczenie
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Software Developer, icon: 'icon-1.png', date: 'Lut 1998 - Wrz 1999', organization: 'Marko sp. z o.o.'}
+- {name: Software Developer, icon: 'icon-2.png', date: 'Paź 1999 - Lis 2000', organization: 'Massa S.A.'}
+- {name: Software Developer, icon: 'icon-3.png', date: 'Gru 2000 - Gru 2009', organization: 'NET Innovation Software'}
+- {name: Menager Projektów IT, icon: 'icon-1.png', date: 'Sty 2010 - Obecnie', organization: 'NET Innovation Software'}
+- {name: Właściciel firmy , icon: 'icon-2.png', date: 'Wrz 2016 - Obecnie', organization: 'AWSoftware'}
 
 
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: Edukacja
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Project Management PRINCE2, date: '2006', organization: 'Masassusets Institute of Technology'}
+- {name: RH253 Red Hat Linux Networking and Security Administration, date: '2004', organization: 'Akademia Altkom'}
+- {name: Red Hat Enterprise Linux Network Applications, date: '2004', organization: 'Akademia Altkom'}
+- {name: Red Hat Enterprise Linux Security Administration, date: '2004', organization: 'Akademia Altkom'}
+- {name: Cisco CCNA 1 - 4, date: '2000', organization: 'Politechnika Białostocka'}
+- {name: Studia na kierunku informatyka, date: '1993-1998', organization: 'Politechnika Białostocka'}
 
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Usługi
 services:
 - {
-    name: UI Design,
+    name: Projektowanie aplikacji,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Implementacja aplikacji,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: Wdrożenie aplikacji,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '',
     active: # Add true to select section
   }
 
@@ -180,73 +174,69 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
-    type : "design"
+    title : "Aplikacje desktopowe",
+    type : "desktop"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "Aplikacje mobilne",
+    type : "mobile"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "Strony WWW",
+    type : "web"
   }
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-     - type: "design"
-     - type: "illustration"
+     - type: "desktop"     
       
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "desktop"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "mobile"
       
   - image : "assets/images/portfolio/item-6.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "mobile"
+
       
   - image : "assets/images/portfolio/item-8.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "web"
       
   - image : "assets/images/portfolio/item-5.png"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "web"
       
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "web"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "web"
       
   - image : "assets/images/portfolio/item-7.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
-
+      - type: "web"
 
 #-------------------------------
 # Testimonials Section
 
-testimonial-items:
+#testimonial-items:
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
     designation : "CEO, Funder"
